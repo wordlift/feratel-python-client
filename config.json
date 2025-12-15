@@ -1,4 +1,7 @@
 {
+  "authorName": "David Riccitelli",
+  "authorEmail": "david@wordlift.io",
+  "packageDescription": "Python client for the Deskline DS API",
   "packageVersion": "1.0.0",
   "pythonVersion": "3.11"
 }

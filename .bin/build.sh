@@ -15,4 +15,4 @@ docker run --rm -v "${PWD}:/local" openapitools/openapi-generator-cli:v7.17.0 ge
   --package-name 'feratel_client' \
   --library 'asyncio' \
   --additional-properties=pythonVersion=3.11 \
-  -o /local/feratel_client
+  -o /local
