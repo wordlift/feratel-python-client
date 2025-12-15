@@ -3,5 +3,7 @@
   "authorEmail": "david@wordlift.io",
   "packageDescription": "Python client for the Deskline DS API",
   "packageVersion": "1.0.0",
-  "pythonVersion": "3.11"
+  "pythonVersion": "3.11",
+  "gitUserId": "wordlift",
+  "gitRepoId": "feratel-python-client"
 }
